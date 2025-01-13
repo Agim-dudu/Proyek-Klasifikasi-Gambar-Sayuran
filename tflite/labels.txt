@@ -1,0 +1,11 @@
+0 Bean
+1 Brinjal
+2 Broccoli
+3 Cabbage
+4 Carrot
+5 Cucumber
+6 Papaya
+7 Potato
+8 Pumpkin
+9 Radish
+10 Tomato
